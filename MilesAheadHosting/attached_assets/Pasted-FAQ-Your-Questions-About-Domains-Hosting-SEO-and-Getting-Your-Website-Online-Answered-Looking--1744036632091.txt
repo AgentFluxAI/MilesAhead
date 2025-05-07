@@ -1,0 +1,159 @@
+FAQ
+Your Questions About Domains, Hosting, SEO, and Getting Your Website Online—Answered.
+Looking for answers about launching a website, getting found on Google, or choosing the right hosting? You’re not alone. These are the most common questions we get from business owners just like you—clear, helpful, and written for people, not just search engines.
+
+Q: How do I launch a website for my business?
+A: To launch a website, you need three things: a domain name, web hosting, and a well-designed website. We help you register a domain, set up secure hosting, and build a custom website that’s optimized to show up on Google and bring in customers.
+
+Q: What is web hosting and why do I need it?
+A: Web hosting is where your website files are stored and made available online. Without hosting, your site can’t be accessed. We provide fast, secure hosting with SSL certificates, daily backups, and expert support—so your website stays live, safe, and fast.
+
+Q: Can you help me choose and register a domain name?
+A: Yes! We help you brainstorm, select, and register the right domain name for your brand. We handle setup, DNS configuration, and make sure everything is connected properly to your hosting and email.
+
+Q: How do I get my website to show up on Google?
+A: Showing up on Google requires SEO (search engine optimization). Every site we build includes on-page SEO from day one—optimized titles, headings, meta descriptions, internal linking, image alt text, and fast performance. We also submit your site to Google Search Console and sitemap indexing.
+
+Q: How long does it take for my website to rank on Google?
+A: While we make sure your site is indexable and SEO-ready at launch, ranking on the first page of Google usually takes time. With our ongoing SEO plans, we help you improve visibility month over month by targeting keywords, creating content, and building trust with Google.
+
+Q: Can you audit my current website for SEO issues?
+A: Yes, we offer a Free SEO Audit that checks your site’s speed, structure, keyword optimization, and search visibility. We’ll send you a clear report and explain exactly what can be improved.
+
+Q: I already have a website—can you make it better?
+A: Absolutely. Whether you need a redesign, speed boost, SEO overhaul, or better hosting—we’ll assess your current site and help you fix what’s not working.
+
+Q: Do I need ongoing SEO after launching my website?
+A: Yes, if you want to keep improving your search rankings. SEO isn’t a one-time job—it’s an ongoing strategy. We offer monthly SEO plans that include keyword targeting, blog content, performance checks, and competitor tracking.
+
+Q: Do you offer support after the website goes live?
+A: Yes. We offer website maintenance and support plans that include updates, security checks, content edits, and performance monitoring—so your site stays in great shape and you’re never stuck.
+
+Q: Where are you located, and do you work with clients outside BC?
+A: We’re based in Gibsons, British Columbia, with clients in Vancouver, Victoria, Montreal, Toronto, and across Canada. We also work with international clients, so no matter where you are, we can help.
+
+
+
+Q: Can you help me get on the first page of Google?
+A: Yes—but with real strategy, not shortcuts. We follow Google’s guidelines, use proven SEO practices, and create high-quality content to help your business earn better rankings over time
+
+
+
+
+Schema
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I launch a website for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To launch a website, you need three things: a domain name, web hosting, and a well-designed website. We help you register a domain, set up secure hosting, and build a custom website that’s optimized to show up on Google and bring in customers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is web hosting and why do I need it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Web hosting is where your website files are stored and made available online. Without hosting, your site can’t be accessed. We provide fast, secure hosting with SSL certificates, daily backups, and expert support—so your website stays live, safe, and fast."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you help me choose and register a domain name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! We help you brainstorm, select, and register the right domain name for your brand. We handle setup, DNS configuration, and make sure everything is connected properly to your hosting and email."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get my website to show up on Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Showing up on Google requires SEO (search engine optimization). Every site we build includes on-page SEO from day one—optimized titles, headings, meta descriptions, internal linking, image alt text, and fast performance. We also submit your site to Google Search Console and sitemap indexing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take for my website to rank on Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we make sure your site is indexable and SEO-ready at launch, ranking on the first page of Google usually takes time. With our ongoing SEO plans, we help you improve visibility month over month by targeting keywords, creating content, and building trust with Google."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you audit my current website for SEO issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer a Free SEO Audit that checks your site’s speed, structure, keyword optimization, and search visibility. We’ll send you a clear report and explain exactly what can be improved."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I already have a website—can you make it better?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Whether you need a redesign, speed boost, SEO overhaul, or better hosting—we’ll assess your current site and help you fix what’s not working."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need ongoing SEO after launching my website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you want to keep improving your search rankings. SEO isn’t a one-time job—it’s an ongoing strategy. We offer monthly SEO plans that include keyword targeting, blog content, performance checks, and competitor tracking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer support after the website goes live?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We offer website maintenance and support plans that include updates, security checks, content edits, and performance monitoring—so your site stays in great shape and you’re never stuck."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where are you located, and do you work with clients outside BC?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We’re based in Gibsons, British Columbia, with clients in Vancouver, Victoria, Montreal, Toronto, and across Canada. We also work with international clients, so no matter where you are, we can help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you help me get on the first page of Google?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—but with real strategy, not shortcuts. We follow Google’s guidelines, use proven SEO practices, and create high-quality content to help your business earn better rankings over time."
+      }
+    }
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Tadhg Gunnigle"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Miles Ahead Hosting",
+    "url": "https://milesaheadhosting.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://milesaheadhosting.com/wp-content/uploads/2025/03/Miles-Ahead-Hosting-Webhosting-Domains-websites.png"
+    },
+    "email": "hello@milesaheadhosting.com",
+    "telephone": "+1-604-741-5666",
+    "areaServed": [
+      "Gibsons", "Sechelt", "Roberts Creek", "Halfmoon Bay", "Pender Harbour", "Madeira Park", "Lund", "Nanaimo", "Victoria", "Vancouver", "North Vancouver", "West Vancouver", "Burnaby", "Richmond", "Surrey", "Delta", "Port Coquitlam", "New Westminster", "Maple Ridge", "Coquitlam", "Langley", "Port Moody", "White Rock", "Canada", "Worldwide"
+    ]
+  },
+  "url": "https://milesaheadhosting.com/faq"
+}
+
+
